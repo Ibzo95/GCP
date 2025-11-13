@@ -1,0 +1,9 @@
+{ "BigQuery Schema": [ 
+   { "name": "id", "type": "INTEGER" }, 
+   { "name": "date", "type": "DATE" }, 
+   { "name": "produit", "type": "STRING" }, 
+   { "name": "quantite", "type": "INTEGER" }, 
+   { "name": "prix_unitaire", "type": "FLOAT" }, 
+   { "name": "montant_total", "type": "FLOAT" }, 
+ ] 
+}
